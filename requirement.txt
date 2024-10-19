@@ -1,0 +1,4 @@
+googletrans
+gtts
+SpeechRecognition
+pydub
